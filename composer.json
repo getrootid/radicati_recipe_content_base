@@ -1,0 +1,17 @@
+{
+  "name": "getrootid/radicati-recipe-content-base",
+  "description": "Base content setup for Radicati sites.",
+  "type": "drupal-recipe",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Jason Mickela"
+    }
+  ],
+  "require": {
+    "drupal/paragraphs": "*",
+    "drupal/field_group": "*",
+    "drupal/type_tray": "*",
+    "drupal/slick": "*"
+  }
+}
