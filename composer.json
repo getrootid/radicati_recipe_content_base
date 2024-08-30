@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "getrootid/radicati_recipe_media": "*",
+    "getrootid/radicati-recipe-media": "*",
     "drupal/paragraphs": "*",
     "drupal/field_group": "*",
     "drupal/type_tray": "*",
