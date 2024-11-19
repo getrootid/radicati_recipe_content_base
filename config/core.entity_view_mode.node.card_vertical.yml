@@ -4,7 +4,10 @@ status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: KYJBBuW1EikXIXZ0v4pskVE1BN57TSaDkBDLTBu4NmY
 id: node.card_vertical
 label: 'Card: Vertical'
+description: ''
 targetEntityType: node
 cache: true

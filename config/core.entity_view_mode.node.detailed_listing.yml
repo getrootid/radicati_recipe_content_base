@@ -4,7 +4,10 @@ status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: CiRvRhaSYd7TjA-KGOp-Y19ABSpBxNg0VbTne771Llg
 id: node.detailed_listing
 label: 'Detailed Listing'
+description: ''
 targetEntityType: node
 cache: true

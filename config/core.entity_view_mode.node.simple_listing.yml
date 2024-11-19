@@ -4,7 +4,10 @@ status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: 5LYWKFiWhHg4zZKrAuQCsiedADasjNRS_yNqpM2kBQ0
 id: node.simple_listing
 label: 'Simple Listing'
+description: ''
 targetEntityType: node
 cache: true

@@ -5,6 +5,8 @@ dependencies:
   module:
     - node
     - text
+_core:
+  default_config_hash: 6_TL50ZSRm3NO9MHuI-ZZnoY-ML-SjwE9wHd8tm-BL0
 id: node.field_formatted_content
 field_name: field_formatted_content
 entity_type: node
