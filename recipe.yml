@@ -40,5 +40,4 @@ config:
     taxonomy: "*"
     menu_link_content: "*"
     menu_ui: "*"
-    path: "*"
     pathauto: "*"
