@@ -4,14 +4,15 @@ type: 'Content'
 recipes:
   - radicati-recipe-media
 install:
+  - ckeditor5
   - paragraphs
   - field
   - field_ui
   - text
   - datetime
   - filter
+  - language
   - editor
-  - ckeditor5
   - text_field_formatter
   - link
   - options
@@ -26,7 +27,6 @@ install:
   - pathauto
   - blazy
   - editor
-  - slick
   - type_tray
 config:
   import:
@@ -37,7 +37,6 @@ config:
     text_field_formatter: "*"
     paragraphs: "*"
     field_group: "*"
-    taxonomy: "*"
     menu_link_content: "*"
     menu_ui: "*"
     path: "*"
