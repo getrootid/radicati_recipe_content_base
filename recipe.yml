@@ -28,6 +28,7 @@ install:
   - blazy
   - editor
   - type_tray
+  - views
 config:
   import:
     field: "*"
@@ -41,3 +42,4 @@ config:
     menu_ui: "*"
     path: "*"
     pathauto: "*"
+    views: "*"
